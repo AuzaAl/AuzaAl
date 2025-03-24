@@ -51,19 +51,6 @@
 
 ###
 
-<div align="center">
-  <img height="100" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTVpaXI3aDl0NHJqaGdtNzJna2o4ZDZnbDhnZ2JmOTM3ZHNiOGp0MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Cmr1OMJ2FN0B2/giphy.gif"  />
-</div>
-
-###
-
-<div align="left">
-  <img src="https://streak-stats.demolab.com?user=AuzaAl&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AuzaAl&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/YongZH-1/YongZH-1/output/snake.svg" alt="Snake animation" />
